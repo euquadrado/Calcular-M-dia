@@ -3,4 +3,4 @@ Este projeto em Python permite calcular a média das notas de um aluno com base 
 
 
 
-Teste Aqui : https://replit.com/@efq2005/Calcular-Media
+Teste Aqui : (https://replit.com/@efq2005/Calcular-Media?v=1)
